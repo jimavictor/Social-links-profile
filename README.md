@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/jimavictor/Social-links-profile)
-- Live Site URL: [Site URL](https://jimavictor.github.io/Social-links-profile)
+- Live Site URL: [Site URL](https://realsociallinksprofile.netlify.app)
 
 ## My process
 
