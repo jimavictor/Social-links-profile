@@ -594,6 +594,18 @@ video {
   display: flex;
 }
 
+.h-full {
+  height: 100%;
+}
+
+.h-screen {
+  height: 100vh;
+}
+
+.min-h-screen {
+  min-height: 100vh;
+}
+
 .w-2\/5 {
   width: 40%;
 }
@@ -604,6 +616,10 @@ video {
 
 .cursor-pointer {
   cursor: pointer;
+}
+
+.items-center {
+  align-items: center;
 }
 
 .justify-center {
