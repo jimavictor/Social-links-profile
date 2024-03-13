@@ -684,6 +684,11 @@ video {
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
+.text-red-500 {
+  --tw-text-opacity: 1;
+  color: rgb(239 68 68 / var(--tw-text-opacity));
+}
+
 .hover\:bg-\[hsl\(75\2c 94\%\2c 57\%\)\]:hover {
   --tw-bg-opacity: 1;
   background-color: hsl(75 94% 57% / var(--tw-bg-opacity));
